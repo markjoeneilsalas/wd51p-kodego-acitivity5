@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markjoeneilsalas&label=Profile%20views&color=0e75b6&style=flat" alt="markjoeneilsalas" /> </p>
 
 <h3 align="left">Using</h3>
-<p> PURE HTML WITH LANDING PAGES </p>
+<p> PURE HTML AND CSS ONLY </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
